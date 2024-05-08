@@ -1,0 +1,5 @@
+chicens=int(input())
+cows=int(input())
+pigs = int(input())
+res = (chicens*2)+(cows*4)+(pigs*4)
+print(res)
